@@ -1,0 +1,3 @@
+﻿  binaryTree.cpp
+c:\users\пк\source\repos\binarytree\binarytree\binarytree.cpp(195): warning C4101: s: неиспользованная локальная переменная
+  binaryTree.vcxproj -> C:\Users\пк\source\repos\binaryTree\Debug\binaryTree.exe
